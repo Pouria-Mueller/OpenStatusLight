@@ -4,6 +4,8 @@
 A Open Source Alternative to the "kuando Busylight" 
 
 
+> [!WARNING]
+> **This project is still WIP (Work In Progress) and a few aspects are not finished or released!** 
 
 
 ## FAQ
