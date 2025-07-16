@@ -22,3 +22,5 @@ I used Recycled (rPLA) filament from the [Recycling Fabrik](recyclingfabrik.com)
 Dome: [Milky Glass](https://www.recyclingfabrik.com/products/milchiges-glas-transparent)
 
 Base: [Good Night (Black)](https://www.recyclingfabrik.com/products/gute-nacht-schwarz)
+
+#### If you dont have a 3D printer you can ask your nearest Makerspace if they can print it for you.
