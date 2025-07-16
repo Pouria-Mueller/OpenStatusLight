@@ -19,7 +19,20 @@ Yes, modifications are welcome! Just make sure to follow the [license terms](htt
 #### How can I contribute?
 Feel free to create a new branch. Once you’ve made your changes, open a Pull Request (PR). I’ll review it and merge it if everything looks good.
 
+#### What platforms are supported?
+Currently only Microsoft Teams but i hope i can add support for Matrix, Rocket Chat and maybe Discord (idk about discord yet, because of recent events), but it highly depends on the API of the platform
 
+### Can I track the status of multiple people?
+Yes! that’s actually the main reason I created it. In my workplace, I share a room with two other apprentices. Sometimes, when one of us received a call, the others didn’t notice and accidentally caused interruptions. To solve this, I designed the system to support multiple users and make everyone's status visible in one Light.
+
+
+
+## Next Steps
+
+- Adding More Platforms
+- Adding Configuration via Wifi or BLE
+- Display Mount
+- LED-Strip version
 
 ## Acknowledgements
 
