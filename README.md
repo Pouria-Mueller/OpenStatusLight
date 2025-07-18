@@ -40,7 +40,7 @@ I'll review it and merge if everything looks good.
 
 
 #### What platforms are supported?
-Currently only Microsoft Teams but i hope i can add support for Matrix, Rocket Chat and maybe Nextcloud and Discord (idk about discord yet, because of recent events), but it highly depends on the API of the platform
+Currently only Microsoft Teams but I hope I can add support for Matrix, Rocket Chat and maybe Nextcloud and Discord (I don't know about Discord yet, because of recent events), but it highly depends on the API of the platform
 
 ### Can I track the status of multiple people?
 Yes! that’s actually the main reason I created it. In my workplace, I share a room with two other apprentices. Sometimes, when one of us received a call, the others didn’t notice and accidentally caused interruptions. To solve this, I designed the system to support multiple users and make everyone's status visible in one Light.
