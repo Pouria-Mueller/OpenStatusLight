@@ -1,7 +1,7 @@
 
 # OpenStatusLight
 
-A Open Source Alternative to the "[kuando Busylight](https://busylight.com/)" 
+An Open Source Alternative to the "[kuando Busylight](https://busylight.com/)" 
 
 
 > [!WARNING]
