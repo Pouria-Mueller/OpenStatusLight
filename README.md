@@ -50,7 +50,7 @@ Yes! that’s actually the main reason I created it. In my workplace, I share a 
 ## Next Steps
 
 - Adding More Platforms
-- Adding Configuration via Wifi or BT
+- Adding Configuration via WiFi or Bluetooth
 - Display Mount
 - LED-Strip version
 
