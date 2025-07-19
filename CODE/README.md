@@ -45,7 +45,7 @@ It only asks for PresenceReadAll permissions to get the Presence value. It can O
 
 By default it should now Poll the presence of the User(s) you specified and after and should display by Priority
 It goes from Highest to Lowest
-Busy Blinking (In call / Presentation / Group Call) > Busy (Calendar Event or Manual Presence) > Availible > Away > Offline
+Busy Blinking (In call / Presentation / Group Call) > Busy (Calendar Event or Manual Presence) > Available > Away > Offline
 
 ## Error Handing
 If the light goes blue it is in an error state and a Restart should solve most Problems like session Timeout.
