@@ -5,6 +5,6 @@
 
 #### Parts are designed in FreeCAD (/design) but i also exported the .3mf file which is compatible with Slicers if you don´t want to install FreeCAD (/fdm)
 
->[!Warning]
+>[!WARNING]
 >The files are designed for a 0,4mm Nozzle
 >I do **not** reccomend Dome mode and Variable layer hight for the dome! 
