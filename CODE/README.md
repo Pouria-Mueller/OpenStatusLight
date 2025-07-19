@@ -10,7 +10,7 @@
 If you don't know what pin you want to use just use Pin 21
 </details>
 
-## Installing Dependencys
+## Installing Dependencies
 You need:
 <WiFi.h> Preinstalled
 <HTTPClient.h> Preinstalled
