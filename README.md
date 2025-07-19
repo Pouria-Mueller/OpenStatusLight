@@ -5,7 +5,7 @@ An Open Source Alternative to the "[kuando Busylight](https://busylight.com/)"
 
 
 > [!WARNING]
-> **This project is still WIP (Work In Progress) and a few aspects are not finished or released!** 
+> **This project is still WIP (Work In Progress) and some aspects can change, but it is working** 
 
 
 ## FAQ
