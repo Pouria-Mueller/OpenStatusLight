@@ -22,7 +22,7 @@ You need:
 Connect the ESP-32 via USB(-C) to our computer 
 > [!Warning]
 > Do not wonder if the Serial monitor gives you weird output before Programming it
-> If you get invalid characters after istalling Change the BAUD rade to 115200 in the Serial Monitor
+> If you get invalid characters after installing Change the BAUD rate to 115200 in the Serial Monitor
 
 On some ESP-32 (Mostly Non-Mini Dev boards) you need to push a (BOOT) Button to enter the Programming mode
 
