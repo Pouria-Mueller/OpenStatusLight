@@ -7,7 +7,7 @@
   <summary>How to find the right IO-Pin</summary>
   <img width="2160" height="884" alt="image" src="https://github.com/user-attachments/assets/b8966576-8be8-4bc5-8d23-2f62c73926fa" />
 
-If you dont know what pin you want to use just use Pin 21
+If you don't know what pin you want to use just use Pin 21
 </details>
 
 ## Installing Dependencys
