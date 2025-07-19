@@ -34,7 +34,7 @@ if you dont know what each value is check the comment above it.
 After Programming you may need to press the (EN) Reset button to restart it
 
 ## Finishing Setup
-After it bootet it should start to Glow in Purple which indicates the search for WIFI
+After it booted it should start to Glow in Purple which indicates the search for WIFI
 if this State does not change after 30 sec check the WIFI Credentials 
 > [!Warning]
 > All Values including WIFI Name are CASE SENSITIVE
