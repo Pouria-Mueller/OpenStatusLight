@@ -47,6 +47,6 @@ By default it should now Poll the presence of the User(s) you specified and afte
 It goes from Highest to Lowest
 Busy Blinking (In call / Presentation / Group Call) > Busy (Calendar Event or Manual Presence) > Available > Away > Offline
 
-## Error Handing
+## Error Handling
 If the light goes blue it is in an error state and a Restart should solve most Problems like session Timeout.
 If not one of your credentials might be broken and / or Teams decided to change their api for no Reason
