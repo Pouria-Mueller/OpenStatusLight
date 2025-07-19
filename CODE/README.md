@@ -37,7 +37,7 @@ After Programming you may need to press the (EN) Reset button to restart it
 After it bootet it should start to Glow in Purple which indicates the search for WIFI
 if this State does not change after 30 sec check the WIFI Credentials 
 > [!Warning]
-> All Values inclluding WIFI Name are CASE SENSITIVE
+> All Values including WIFI Name are CASE SENSITIVE
 
 When it connects to the WIFI the lights should turn off and you should get a notification to your webhook which should either return a error if your Application credentials are wrong or a CODE which you need to connect it to your account. 
 
