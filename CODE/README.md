@@ -41,7 +41,7 @@ if this State does not change after 30 sec check the WIFI Credentials
 
 When it connects to the WIFI the lights should turn off and you should get a notification to your webhook which should either return a error if your Application credentials are wrong or a CODE which you need to connect it to your account. 
 
-It only asks for PresenceReadAll permissons to get the Presence value. it can ONLY get Presence and Activity which are by default Publicly accesible
+It only asks for PresenceReadAll permissions to get the Presence value. It can ONLY get Presence and Activity which are by default Publicly accessible.
 
 By default it should now Poll the presence of the User(s) you specified and after and should display by Priority
 It goes from Highest to Lowest
