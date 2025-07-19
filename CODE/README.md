@@ -12,11 +12,11 @@ If you don't know what pin you want to use just use Pin 21
 
 ## Installing Dependencies
 You need:
-<WiFi.h> Preinstalled
-<HTTPClient.h> Preinstalled
-<ArduinoJson.h> by Benoît Blanchon
-<Adafruit_NeoPixel.h> by AdaFruit
-<TaskScheduler.h> by Anatoli Arkhipenko 
+- <WiFi.h> Preinstalled
+- <HTTPClient.h> Preinstalled
+- <ArduinoJson.h> by Benoît Blanchon
+- <Adafruit_NeoPixel.h> by AdaFruit
+- <TaskScheduler.h> by Anatoli Arkhipenko 
 
 ## Connecting ESP32
 Connect the ESP-32 via USB(-C) to our computer 
