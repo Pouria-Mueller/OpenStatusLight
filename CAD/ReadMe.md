@@ -7,4 +7,4 @@
 
 >[!WARNING]
 >The files are designed for a 0,4mm Nozzle
->I do **not** reccomend Dome mode and Variable layer hight for the dome! 
+>I do **not** recommend Dome mode and Variable layer height for the dome! 
