@@ -1,4 +1,4 @@
-# Instalation Guide
+# Installation Guide
 ## Prerequisites
 - Arduino IDE or PlatformIO <- This guide is only for the Arduino IDE
 - Connection between the Computer and ESP32
