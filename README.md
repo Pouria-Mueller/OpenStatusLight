@@ -7,6 +7,7 @@ An Open Source Alternative to the "[kuando Busylight](https://busylight.com/)"
 > [!WARNING]
 > **This project is still WIP (Work In Progress) and some aspects can change, but it is working** 
 
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/be871d71-b903-4cf6-b7d2-fd779abb30b8" />
 
 ## FAQ
 
