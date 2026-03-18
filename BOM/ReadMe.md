@@ -17,7 +17,7 @@ All the required parts should be easy to find and affordable.
 - Any Base color
 - Dome should be **Translucent**
 
-I used Recycled (rPLA) filament from the [Recycling Fabrik](recyclingfabrik.com).
+I used Recycled (rPLA) filament from the [Recycling Fabrik](https://recyclingfabrik.com).
 
 Dome: [Milky Glass](https://www.recyclingfabrik.com/products/milchiges-glas-transparent)
 
