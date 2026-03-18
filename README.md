@@ -12,7 +12,7 @@ An Open Source Alternative to the "[kuando Busylight](https://busylight.com/)"
 ## FAQ
 
 #### What do I need?
-You can find the Bill of Materials (BOM) [here](https://github.com/Pouria-Mueller/OpenStatusLight/blob/main/BOM/Hardware.md).
+You can find the Bill of Materials (BOM) [here](https://github.com/Pouria-Mueller/OpenStatusLight/blob/main/BOM/ReadMe.md).
 
 #### Can I modify it?
 Yes, modifications are welcome! Just make sure to follow the [license terms](https://github.com/Pouria-Mueller/OpenStatusLight/blob/main/LICENSE).
